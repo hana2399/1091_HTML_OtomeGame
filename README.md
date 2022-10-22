@@ -6,8 +6,10 @@ RPG遊戲企劃網站
 練習各種網頁功能，包括選項按鈕群組、導覽列和下拉式清單等，可以藉由這些功能與各角色互動
 
 <h4>首頁</h4>
-在進入首頁之前，會跳出提示視窗以輸入稱呼
+在進入首頁之前，會跳出提示視窗以輸入稱呼<br>
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/105577291/197329921-f336d654-c144-4bda-a1e7-18e57f536dbe.png">
 並顯示歡迎視窗、進入首頁<br>
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/105577291/197329939-d3afa3ce-9325-481d-a9c3-a78a6da32167.png">
 <img width="960" alt="01 首頁" src="https://user-images.githubusercontent.com/105577291/196753951-d0c17860-43d1-43c5-8914-9feb946d7b1e.png">
 首頁有分頁為遊戲故事序章做引導
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105577291/197323604-b2481e04-ab19-478f-80c7-5ace879c85c7.png">
