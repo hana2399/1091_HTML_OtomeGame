@@ -13,7 +13,6 @@ RPG遊戲企劃網站
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105577291/197323604-b2481e04-ab19-478f-80c7-5ace879c85c7.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105577291/197323617-9d187da1-c4d0-48d0-ba17-7d36636b0f24.png">
 點選導覽列之「Tutorial」可引導至網頁說明頁面<br>
-![image](https://user-images.githubusercontent.com/105577291/197324298-c5f42edd-4f64-4d23-89d1-5bc950e1ce87.png)
-![image](https://user-images.githubusercontent.com/105577291/197324320-68220227-c8fc-44bb-84a7-c47193969ae8.png)
-
-
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/105577291/197324403-ab45e21e-f04b-444e-90a1-502016ff4383.png">
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/105577291/197324443-350d5eea-a704-4c4e-9caa-5e3d86342904.png">
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/105577291/197324460-a8ebb945-6f35-4f31-93da-fface06464bf.png">
