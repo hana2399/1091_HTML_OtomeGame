@@ -12,9 +12,11 @@ RPG遊戲企劃網站
 首頁有分頁為遊戲故事序章做引導
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105577291/197323604-b2481e04-ab19-478f-80c7-5ace879c85c7.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105577291/197323617-9d187da1-c4d0-48d0-ba17-7d36636b0f24.png">
+<h5>說明</h5>
 點選導覽列之「Tutorial」可引導至網頁說明頁面<br>
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/105577291/197324403-ab45e21e-f04b-444e-90a1-502016ff4383.png">
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/105577291/197324443-350d5eea-a704-4c4e-9caa-5e3d86342904.png">
+<h5>角色介紹、關卡總覽</h5>
 點選導覽列之「Characters」可有下拉列表<br>
 分別為主人公介紹、各角色列表(分一、二、三年級)，以及關卡總覽
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/105577291/197324460-a8ebb945-6f35-4f31-93da-fface06464bf.png">
@@ -31,4 +33,7 @@ RPG遊戲企劃網站
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/105577291/197325632-a72b2075-d5b5-412e-a31f-e6a6b4fbe6be.png">
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/105577291/197325607-c51c04fe-439b-4938-b1cd-a598d0612b34.png">
 
+<h5>網頁分析區</h5>
+此為作業-網頁分析部分
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/105577291/197325754-95585a16-bdae-4579-b16c-0595ecd2e100.png">
 
